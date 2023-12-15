@@ -1,0 +1,1 @@
+#root{max-width:1920px;margin:0 auto;padding:2rem;text-align:center}body{margin:0;display:flex;place-items:center;min-width:320px;min-height:100vh;background:url(/bundles/pokemon/shared/dist/pokemonSV_bg-22ad9bd0.jpg)}.benched{filter:brightness(.5)}.active{filter:brightness(1)}.fainting{filter:grayscale(100) brightness(.8)}

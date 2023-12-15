@@ -1,0 +1,1 @@
+import{j as t,R as e}from"./useRepList-e1f89336.js";import{c as o}from"./client-49d0784f.js";import{A as r}from"./App-27f51963.js";o.createRoot(document.getElementById("root")).render(t.jsx(e.StrictMode,{children:t.jsx(r,{})}));

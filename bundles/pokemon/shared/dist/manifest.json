@@ -1,0 +1,174 @@
+{
+  "Scoreboard.png": {
+    "file": "Scoreboard-4c44d410.png",
+    "src": "Scoreboard.png"
+  },
+  "_FTN_icon-6787dfd8.js": {
+    "assets": [
+      "PSN_icon-34f18313.png",
+      "BRN_icon-9a610fb2.png",
+      "FRZ_icon-86247323.png",
+      "PAR_icon-37dc4140.png",
+      "SLP_icon-89e1a517.png",
+      "FTN_icon-a1cff135.png"
+    ],
+    "file": "FTN_icon-6787dfd8.js"
+  },
+  "_SLP_icon-c528fe32.js": {
+    "assets": [
+      "PSN_icon-34f18313.png",
+      "BRN_icon-9a610fb2.png",
+      "FRZ_icon-86247323.png",
+      "PAR_icon-37dc4140.png",
+      "SLP_icon-89e1a517.png"
+    ],
+    "file": "SLP_icon-c528fe32.js"
+  },
+  "_client-0226d556.js": {
+    "file": "client-0226d556.js",
+    "imports": [
+      "_FTN_icon-6787dfd8.js"
+    ]
+  },
+  "_client-3752dc6d.js": {
+    "file": "client-3752dc6d.js",
+    "imports": [
+      "_useRepList-0cb593dc.js"
+    ]
+  },
+  "_client-38b1fe84.js": {
+    "file": "client-38b1fe84.js",
+    "imports": [
+      "_jsx-runtime-a0bc6e0c.js"
+    ]
+  },
+  "_client-49d0784f.js": {
+    "file": "client-49d0784f.js",
+    "imports": [
+      "_useRepList-e1f89336.js"
+    ]
+  },
+  "_client-a2357864.js": {
+    "file": "client-a2357864.js",
+    "imports": [
+      "_useRepList-c9e5684b.js"
+    ]
+  },
+  "_client-d11446f4.js": {
+    "file": "client-d11446f4.js",
+    "imports": [
+      "_SLP_icon-c528fe32.js"
+    ]
+  },
+  "_jsx-runtime-a0bc6e0c.js": {
+    "file": "jsx-runtime-a0bc6e0c.js"
+  },
+  "_useRepList-0cb593dc.js": {
+    "assets": [
+      "PSN_icon-34f18313.png",
+      "BRN_icon-9a610fb2.png",
+      "FRZ_icon-86247323.png",
+      "PAR_icon-37dc4140.png",
+      "SLP_icon-89e1a517.png",
+      "FTN_icon-a1cff135.png"
+    ],
+    "file": "useRepList-0cb593dc.js"
+  },
+  "_useRepList-c9e5684b.js": {
+    "file": "useRepList-c9e5684b.js"
+  },
+  "_useRepList-e1f89336.js": {
+    "assets": [
+      "PSN_icon-34f18313.png",
+      "BRN_icon-9a610fb2.png",
+      "FRZ_icon-86247323.png",
+      "PAR_icon-37dc4140.png",
+      "SLP_icon-89e1a517.png",
+      "FTN_icon-a1cff135.png"
+    ],
+    "file": "useRepList-e1f89336.js"
+  },
+  "pokemonSV_bg.jpg": {
+    "file": "pokemonSV_bg-22ad9bd0.jpg",
+    "src": "pokemonSV_bg.jpg"
+  },
+  "src/assets/BRN_icon.png": {
+    "file": "BRN_icon-9a610fb2.png",
+    "src": "src/assets/BRN_icon.png"
+  },
+  "src/assets/FRZ_icon.png": {
+    "file": "FRZ_icon-86247323.png",
+    "src": "src/assets/FRZ_icon.png"
+  },
+  "src/assets/FTN_icon.png": {
+    "file": "FTN_icon-a1cff135.png",
+    "src": "src/assets/FTN_icon.png"
+  },
+  "src/assets/PAR_icon.png": {
+    "file": "PAR_icon-37dc4140.png",
+    "src": "src/assets/PAR_icon.png"
+  },
+  "src/assets/PSN_icon.png": {
+    "file": "PSN_icon-34f18313.png",
+    "src": "src/assets/PSN_icon.png"
+  },
+  "src/assets/SLP_icon.png": {
+    "file": "SLP_icon-89e1a517.png",
+    "src": "src/assets/SLP_icon.png"
+  },
+  "src/assets/Scoreboard.png": {
+    "file": "Scoreboard-4c44d410.png",
+    "src": "src/assets/Scoreboard.png"
+  },
+  "src/assets/pokemonSV_bg.jpg": {
+    "file": "pokemonSV_bg-22ad9bd0.jpg",
+    "src": "src/assets/pokemonSV_bg.jpg"
+  },
+  "src/dashboard/main.css": {
+    "file": "main-5af5c625.css",
+    "src": "src/dashboard/main.css"
+  },
+  "src/dashboard/main.tsx": {
+    "assets": [
+      "pokemonSV_bg-22ad9bd0.jpg"
+    ],
+    "css": [
+      "main-5af5c625.css"
+    ],
+    "file": "main-38746d4b.js",
+    "imports": [
+      "_useRepList-e1f89336.js",
+      "_client-49d0784f.js"
+    ],
+    "isEntry": true,
+    "src": "src/dashboard/main.tsx"
+  },
+  "src/graphics/App.css": {
+    "file": "App-ce1814ea.css",
+    "src": "src/graphics/App.css"
+  },
+  "src/graphics/App.tsx": {
+    "assets": [
+      "Scoreboard-4c44d410.png"
+    ],
+    "css": [
+      "App-ce1814ea.css"
+    ],
+    "file": "App-27f51963.js",
+    "imports": [
+      "_useRepList-e1f89336.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/App.tsx"
+  },
+  "src/graphics/main.tsx": {
+    "file": "main-12a35057.js",
+    "imports": [
+      "_useRepList-e1f89336.js",
+      "_client-49d0784f.js",
+      "src/graphics/App.tsx"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/main.tsx"
+  }
+}

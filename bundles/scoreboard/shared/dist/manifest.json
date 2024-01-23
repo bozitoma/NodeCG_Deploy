@@ -1,0 +1,176 @@
+{
+  "_DialogAlert-4efff679.js": {
+    "file": "DialogAlert-4efff679.js",
+    "imports": [
+      "_useRepList-2da67c25.js"
+    ]
+  },
+  "_TitleDivider-df1d71f1.js": {
+    "file": "TitleDivider-df1d71f1.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_DialogAlert-4efff679.js"
+    ]
+  },
+  "_bracketResultDefaultValue-a92f6294.js": {
+    "file": "bracketResultDefaultValue-a92f6294.js"
+  },
+  "_useRepList-2da67c25.js": {
+    "file": "useRepList-2da67c25.js"
+  },
+  "_useStyled-a6694058.js": {
+    "file": "useStyled-a6694058.js",
+    "imports": [
+      "_DialogAlert-4efff679.js",
+      "_useRepList-2da67c25.js"
+    ]
+  },
+  "_vgbc-a706962e.js": {
+    "assets": [
+      "vgbc-0ceaa816.riv"
+    ],
+    "file": "vgbc-a706962e.js",
+    "imports": [
+      "_useRepList-2da67c25.js"
+    ]
+  },
+  "src/assets/vgbc.riv": {
+    "file": "vgbc-0ceaa816.riv",
+    "src": "src/assets/vgbc.riv"
+  },
+  "src/dashboard/bracket.css": {
+    "file": "bracket-bdcd70a7.css",
+    "src": "src/dashboard/bracket.css"
+  },
+  "src/dashboard/bracket.tsx": {
+    "css": [
+      "bracket-bdcd70a7.css"
+    ],
+    "file": "bracket-29f0d491.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_bracketResultDefaultValue-a92f6294.js",
+      "_DialogAlert-4efff679.js",
+      "_TitleDivider-df1d71f1.js"
+    ],
+    "isEntry": true,
+    "src": "src/dashboard/bracket.tsx"
+  },
+  "src/dashboard/commentator.css": {
+    "file": "commentator-6ddfbcfa.css",
+    "src": "src/dashboard/scoreboard.css"
+  },
+  "src/dashboard/commentator.tsx": {
+    "css": [
+      "commentator-6ddfbcfa.css"
+    ],
+    "file": "commentator-4f39beba.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_DialogAlert-4efff679.js",
+      "_useStyled-a6694058.js"
+    ],
+    "isEntry": true,
+    "src": "src/dashboard/commentator.tsx"
+  },
+  "src/dashboard/scoreboard.css": {
+    "file": "commentator-6ddfbcfa.css",
+    "src": "src/dashboard/scoreboard.css"
+  },
+  "src/dashboard/scoreboard.tsx": {
+    "css": [
+      "commentator-6ddfbcfa.css"
+    ],
+    "file": "scoreboard-3dea2e13.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_DialogAlert-4efff679.js",
+      "_TitleDivider-df1d71f1.js",
+      "_useStyled-a6694058.js"
+    ],
+    "isEntry": true,
+    "src": "src/dashboard/scoreboard.tsx"
+  },
+  "src/graphics/SF6.css": {
+    "file": "commentator-df3cbe0e.css",
+    "src": "src/graphics/SSBU.css"
+  },
+  "src/graphics/SF6.tsx": {
+    "css": [
+      "commentator-df3cbe0e.css"
+    ],
+    "file": "SF6-8ec94442.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_vgbc-a706962e.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/SF6.tsx"
+  },
+  "src/graphics/SSBU.css": {
+    "file": "commentator-df3cbe0e.css",
+    "src": "src/graphics/SSBU.css"
+  },
+  "src/graphics/SSBU.tsx": {
+    "css": [
+      "commentator-df3cbe0e.css"
+    ],
+    "file": "SSBU-7fab667d.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_vgbc-a706962e.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/SSBU.tsx"
+  },
+  "src/graphics/commentator.css": {
+    "file": "commentator-df3cbe0e.css",
+    "src": "src/graphics/SSBU.css"
+  },
+  "src/graphics/commentator.tsx": {
+    "css": [
+      "commentator-df3cbe0e.css"
+    ],
+    "file": "commentator-00fb8e8a.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_vgbc-a706962e.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/commentator.tsx"
+  },
+  "src/graphics/doubleBacket.css": {
+    "file": "commentator-df3cbe0e.css",
+    "src": "src/graphics/SSBU.css"
+  },
+  "src/graphics/doubleBacket.tsx": {
+    "css": [
+      "commentator-df3cbe0e.css"
+    ],
+    "file": "doubleBacket-67b34081.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_vgbc-a706962e.js",
+      "_bracketResultDefaultValue-a92f6294.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/doubleBacket.tsx"
+  },
+  "src/graphics/singleBracket.css": {
+    "file": "commentator-df3cbe0e.css",
+    "src": "src/graphics/SSBU.css"
+  },
+  "src/graphics/singleBracket.tsx": {
+    "css": [
+      "commentator-df3cbe0e.css"
+    ],
+    "file": "singleBracket-4ea01595.js",
+    "imports": [
+      "_useRepList-2da67c25.js",
+      "_vgbc-a706962e.js",
+      "_bracketResultDefaultValue-a92f6294.js"
+    ],
+    "isEntry": true,
+    "src": "src/graphics/singleBracket.tsx"
+  }
+}

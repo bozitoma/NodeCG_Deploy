@@ -1,0 +1,1 @@
+const F={name1p:"",name2p:"",score1p:-1,score2p:-1},a=["WQFa","WQFb","WQFc","WQFd","WSFa","WSFb","WF","LTOP16a","LTOP16b","LTOP16c","LTOP16d","LTOP8a","LTOP8b","LQFa","LQFb","LSF","LF","GF","GF2"],L=["WQF","WSF","WF","LTOP16","LTOP8","LQF","LSF","LF","GF","GF2"];export{a,L as b,F as c};
